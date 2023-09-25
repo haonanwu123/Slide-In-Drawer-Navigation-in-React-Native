@@ -5,7 +5,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function Settings() {
   return (
     <View style={styles.container}>
-      <Text>Set up!</Text>
+      <Text>Setup time!</Text>
       <StatusBar style="auto" />
     </View>
   );
